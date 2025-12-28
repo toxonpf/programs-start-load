@@ -4,7 +4,7 @@
 - [Revision](https://revi.cc/)
 скорее не приложение а предустановка для системы и ее ускорения изменением внутренних настроек 
 - [PowerToys](https://github.com/microsoft/PowerToys)
-`winget install  Microsoft.PowerToys`
+```winget install  Microsoft.PowerToys```
 приложение добавляющее огромное количество функций для windows что позволяет ускорить работу (издательство microsoft)
 - [EarTrumpet](https://apps.microsoft.com/detail/9nblggh516xp?hl=ru-RU&gl=RU)
 приложение для управления громкостью для Windows
