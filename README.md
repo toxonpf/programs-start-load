@@ -15,7 +15,16 @@
 - [cloudflare warp](https://developers.cloudflare.com/cloudflare-one/connections/connect-devices/warp/download-warp)
 универсальный VPN
 - [AIDA64](https://www.aida64.com/downloads)
-программа для просмотра сведений о ПК
+программа для просмотра сведений о ПК.
+- [nilesoft shell](https://nilesoft.org)
+это максимально настраиваемый браузер для тех, кому важен полный контроль над интерфейсом и вкладками.
+
+## браузеры
+- [vivaldi](https://vivaldi.com/ru/)
+это максимально настраиваемый браузер для тех, кому важен полный контроль над интерфейсом и вкладками.
+- [Opera GX](https://www.opera.com/ru/gx)
+это браузер для геймеров с встроенными ограничителями ресурсов, интеграцией сервисов и игровым дизайном.
+
 
 ## игры
 - [steam](https://store.steampowered.com/about/Steam?l=russian)
