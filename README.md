@@ -6,7 +6,7 @@
 - [PowerToys](https://github.com/microsoft/PowerToys)
 ```winget install  Microsoft.PowerToys```
 приложение добавляющее огромное количество функций для windows что позволяет ускорить работу (издательство microsoft)
-- [EarTrumpet](https://apps.microsoft.com/detail/9nblggh516xp?hl=ru-RU&gl=RU)
+- [EarTrumpet](https://apps.microsoft.com/detail/9NBLGGH516XP?hl=ru-ru&gl=KZ&ocid=pdpshare)
 приложение для управления громкостью для Windows
 - [Monitorian](https://apps.microsoft.com/detail/9nw33j738bl0?hl=ru-RU&gl=RU)
 программа для удобного управления яркостью мониторов 
@@ -20,6 +20,8 @@
 это максимально настраиваемый браузер для тех, кому важен полный контроль над интерфейсом и вкладками.
 
 ## браузеры
+- [Chrome](https://www.google.com/intl/ru/chrome/)
+популярный браузер от Google
 - [vivaldi](https://vivaldi.com/ru/)
 это максимально настраиваемый браузер для тех, кому важен полный контроль над интерфейсом и вкладками.
 - [Opera GX](https://www.opera.com/ru/gx)
@@ -50,8 +52,18 @@
 ## IT
 
 ### программирование 
+- [Git](https://git-scm.com/install/)
+система контроля версий
+- [Node.js](https://nodejs.org/en/download/current)
+среда выполнения JavaScript
+- [Docker](https://www.docker.com)
+платформа для контейнеризации приложений
+- [Ollama](https://ollama.com/download)
+инструмент для запуска больших языковых моделей локально
 - [VScode](https://code.visualstudio.com)
-распространённая  среда разработки 
+распространённая  среда разработки
+- [Visual Studio](https://visualstudio.microsoft.com/ru/)
+интегрированная среда разработки от Microsoft 
 
 
 ### записи
