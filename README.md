@@ -25,7 +25,7 @@
 Объедините удаленные компьютеры в одну локальную сеть
   - winget
     ```
-    winget install Radmin.RadminVPN
+    winget install Famatech.RadminVPN
     ```
 - [cloudflare warp](https://developers.cloudflare.com/cloudflare-one/connections/connect-devices/warp/download-warp)
 универсальный VPN
