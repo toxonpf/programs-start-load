@@ -49,6 +49,10 @@
     ```
     winget install Nilesoft.Shell
     ```
+- [Alternative A2DP Driver](https://www.bluetoothgoodies.com/a2dp/)
+инструмент для изменения bluetooth кодека на windows
+  - [crack](https://xdaforums.com/t/alternative-a2dp-driver-1-7-1-1-on-our-computers-freebie-and-without-a-patch.4773431/)
+  данный инструмент платный и для него требется кряк, КРЯК НУЖНО УСТАНОВИТЬ ДО ЗАВЕРШЕНИЯ ОКОНЧАНИЯ ПРОБГОГО  ПЕРИУДА ПРИЛОЖЕНИЯ, ИНАЧЕ ПРИЛОЖЕНИЕ БЛОКИРУЕТСЯ НА УРОВНЕ ЖЕЛЕЗА И  В ТАКОМ СЛУЧАЕ ВЫ НЕ СМОЖЕТЕ СКАЧАТЬ КРЯК ПОКА НЕ ПОМЕНЯЕТЕ МАТЕРИНСКУЮ ПЛАТУ 
 
 ## браузеры
 - [Chrome](https://www.google.com/intl/ru/chrome/)
